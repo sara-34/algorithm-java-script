@@ -8,3 +8,5 @@ This function prints the numbers one by one.
 This function adds all the array elements.
 # 5. arrayVerduras.
 This Function the array is displayed in the console.
+# 6. numeroMaxMin.
+This Function an array is received and the maximum and minimum are returned.
