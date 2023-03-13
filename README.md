@@ -10,3 +10,9 @@ This function adds all the array elements.
 This Function the array is displayed in the console.
 # 6. numeroMaxMin.
 This Function an array is received and the maximum and minimum are returned.
+# 7. recorrerString
+This fuction iterate a string.
+# 8. recorrerStringLetra.
+This fuction return letter.
+# 9. arrays-imprimiendoNumerosPares.
+# 10. vocalesString.
