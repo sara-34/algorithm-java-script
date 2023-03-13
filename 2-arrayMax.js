@@ -1,4 +1,4 @@
-const array = [8,1,3,5,10];
+let array = [];
 
 function numMaxArray(array) {
     let numMax = array[0];

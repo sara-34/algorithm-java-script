@@ -1,4 +1,4 @@
-const numeroSuma = [3,4,5,6];
+let numeroSuma = [];
 
 function arraySuma(numeroSuma) {
     let suma = 0;
