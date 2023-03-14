@@ -16,3 +16,4 @@ This fuction iterate a string.
 This fuction return letter.
 # 9. arrays-imprimiendoNumerosPares.
 # 10. vocalesString.
+# 11. palabraAlReves.
