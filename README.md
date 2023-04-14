@@ -15,5 +15,11 @@ This fuction iterate a string.
 # 8. recorrerStringLetra.
 This fuction return letter.
 # 9. arrays-imprimiendoNumerosPares.
+This function prints numbers from the array
 # 10. vocalesString.
+This function prints the vowels of a word
 # 11. palabraAlReves.
+This function prints a word backwards
+# 12. forAnidados
+This function works with nested for
+
